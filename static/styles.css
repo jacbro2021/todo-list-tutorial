@@ -1,0 +1,33 @@
+p {
+    text-align: center;
+    color: #75c3f7;
+  }
+
+.hello {
+      color:#31ee01
+  }
+
+#world {    
+      color:rgb(0, 0, 0)
+}
+
+.loser {
+      text-align:center;
+      color:black;
+}
+
+.image {
+  text-align:center;
+  color: black;
+}
+
+.create-todo {
+  text-align:center;
+  color:rgb(243, 9, 9);
+}
+
+
+body {
+  background-color:#75c3f7;
+  }
+
